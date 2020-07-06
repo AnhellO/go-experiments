@@ -1,0 +1,28 @@
+{
+  "name": "go-experiments",
+  "version": "1.0.0",
+  "description": "Repository containing useful resources for learning the Go programming language",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/AnhellO/go-experiments.git"
+  },
+  "keywords": [
+    "go",
+    "golang",
+    "examples",
+    "resources"
+  ],
+  "author": "@AnhellO",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/AnhellO/go-experiments/issues"
+  },
+  "homepage": "https://gitlab.com/AnhellO/go-experiments#readme",
+  "devDependencies": {
+    "auto-changelog": "^2.2.0"
+  }
+}
