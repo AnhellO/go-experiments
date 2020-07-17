@@ -16,7 +16,7 @@ func main() {
 		fmt.Println(<-joe)
 	}
 
-	fmt.Println("You're boring; I'm leaving")
+	fmt.Println("You're both boring; I'm leaving")
 }
 
 func boring(msg string) <-chan string {
