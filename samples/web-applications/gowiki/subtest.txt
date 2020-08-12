@@ -1,0 +1,2 @@
+<h2 style="color:blue;text-align:center;">This is a heading</h2>
+<p style="color:red;">This is a paragraph.</p>
