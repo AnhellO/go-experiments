@@ -25,6 +25,7 @@ func main() {
 
 			if err != nil {
 				fmt.Errorf("Error: %v", err)
+				return
 			}
 
 			updatedBody := strings.Replace(buf.String(), "<Add>", "<Add xmlns=\"http://tempuri.org/\">", -1)
@@ -38,6 +39,7 @@ func main() {
 
 	if err != nil {
 		fmt.Errorf("Error: %v", err)
+		return
 	}
 
 	fmt.Println(*response)
