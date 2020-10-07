@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+	<firstName>Bob</firstName>
+	<middleName></middleName>
+	<lastName>Jones</lastName>
+	<age>23</age>
+	<skill>
+		<skillName>Cooking</skillName>
+		<practice>3</practice>
+	</skill>
+	<skill>
+		<skillName>Basketball</skillName>
+		<practice>4</practice>
+	</skill>
+</person>
