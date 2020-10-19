@@ -4,7 +4,7 @@ go 1.14
 
 require (
 	github.com/antchfx/htmlquery v1.2.3
-	github.com/dgrijalva/jwt-go v3.2.0+incompatible // indirect
+	github.com/dgrijalva/jwt-go v3.2.0+incompatible
 	github.com/fiorix/wsdl2go v1.4.7
 	github.com/fsnotify/fsnotify v1.4.9
 	github.com/gorilla/mux v1.8.0
