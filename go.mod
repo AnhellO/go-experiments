@@ -7,6 +7,8 @@ require (
 	github.com/dgrijalva/jwt-go v3.2.0+incompatible
 	github.com/fiorix/wsdl2go v1.4.7
 	github.com/fsnotify/fsnotify v1.4.9
+	github.com/go-chi/chi v4.1.2+incompatible
+	github.com/go-chi/jwtauth v4.0.4+incompatible
 	github.com/gorilla/context v1.1.1
 	github.com/gorilla/mux v1.8.0
 	github.com/hooklift/gowsdl v0.4.0
