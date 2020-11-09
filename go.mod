@@ -18,5 +18,7 @@ require (
 	github.com/streadway/amqp v1.0.0
 	github.com/stretchr/testify v1.6.1
 	github.com/valyala/fasttemplate v1.2.1 // indirect
+	go.mongodb.org/mongo-driver v1.4.3
 	golang.org/x/tour v0.0.0-20201007071457-6f9d4ff994b1
+	gopkg.in/mgo.v2 v2.0.0-20190816093944-a6b53ec6cb22
 )
