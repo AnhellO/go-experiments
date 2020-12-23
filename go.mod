@@ -14,6 +14,7 @@ require (
 	github.com/gorilla/context v1.1.1
 	github.com/gorilla/mux v1.8.0
 	github.com/hooklift/gowsdl v0.4.0
+	github.com/jung-kurt/gofpdf v1.16.2
 	github.com/labstack/echo v3.3.10+incompatible
 	github.com/labstack/gommon v0.3.0 // indirect
 	github.com/mitchellh/mapstructure v1.3.3
