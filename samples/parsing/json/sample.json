@@ -1,0 +1,10 @@
+{
+    "X": {
+        "folder": "x",
+        "subject": "Prueba {{ .TipoDocumento }} {{ .Serie }} {{ .Folio }} {{ .NameEmisor }}"
+    },
+    "Y": {
+        "folder": "y",
+        "subject": "Prueba {{ .TipoDocumento }} {{ .Serie }} {{ .Folio }} {{ .NameEmisor }}"
+    }
+}
