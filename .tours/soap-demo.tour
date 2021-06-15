@@ -1,0 +1,41 @@
+{
+  "$schema": "https://aka.ms/codetour-schema",
+  "title": "SOAP Demo",
+  "steps": [
+    {
+      "file": "samples/web-applications/soap2/calculator/calculator.go",
+      "description": "This is the GO package that will help you to generate a package from a parsed WSDL.\n\nGenerated from <http://www.dneonline.com/calculator.asmx>.",
+      "line": 7
+    },
+    {
+      "file": "samples/web-applications/soap2/calculator/calculator.go",
+      "description": "This matches the types defined in the WSDL. For example:\n\n```xml\n<s:element name=\"Add\">\n  <s:complexType>\n    <s:sequence>\n      <s:element minOccurs=\"1\" maxOccurs=\"1\" name=\"intA\" type=\"s:int\"/>\n      <s:element minOccurs=\"1\" maxOccurs=\"1\" name=\"intB\" type=\"s:int\"/>\n    </s:sequence>\n  </s:complexType>\n</s:element>\n```",
+      "line": 79,
+      "selection": {
+        "start": {
+          "line": 24,
+          "character": 1
+        },
+        "end": {
+          "line": 78,
+          "character": 2
+        }
+      }
+    },
+    {
+      "file": "samples/web-applications/soap2/calculator/calculator.go",
+      "description": "These functions match to the available operations at the SOAP web service.",
+      "line": 117,
+      "selection": {
+        "start": {
+          "line": 117,
+          "character": 1
+        },
+        "end": {
+          "line": 183,
+          "character": 2
+        }
+      }
+    }
+  ]
+}
