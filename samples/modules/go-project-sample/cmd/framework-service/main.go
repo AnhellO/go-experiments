@@ -21,7 +21,7 @@ var (
 )
 
 //----------
-// Handlers
+// ANCHOR This is the handlers section
 //----------
 
 func createUser(c echo.Context) error {
@@ -36,11 +36,13 @@ func createUser(c echo.Context) error {
 	return c.JSON(http.StatusCreated, u)
 }
 
+// TODO Add unit tests
 func getUser(c echo.Context) error {
 	id, _ := strconv.Atoi(c.Param("id"))
 	return c.JSON(http.StatusOK, users[id])
 }
 
+// TODO Add unit tests
 func updateUser(c echo.Context) error {
 	u := new(user)
 	if err := c.Bind(u); err != nil {
@@ -51,12 +53,14 @@ func updateUser(c echo.Context) error {
 	return c.JSON(http.StatusOK, users[id])
 }
 
+// TODO Add unit tests
 func deleteUser(c echo.Context) error {
 	id, _ := strconv.Atoi(c.Param("id"))
 	delete(users, id)
 	return c.NoContent(http.StatusNoContent)
 }
 
+// TODO Add unit tests
 func main() {
 	e := echo.New()
 
