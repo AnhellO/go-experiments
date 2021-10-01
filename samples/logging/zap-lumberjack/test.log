@@ -1,0 +1,16 @@
+2021-10-01T11:39:34.985-0500	DEBUG	zap-lumberjack/main.go:48	Trying to hit GET request for www.sogo.com
+2021-10-01T11:39:34.985-0500	ERROR	zap-lumberjack/main.go:51	Error fetching URL www.sogo.com : Error = Get "www.sogo.com": unsupported protocol scheme ""
+2021-10-01T11:39:34.985-0500	DEBUG	zap-lumberjack/main.go:48	Trying to hit GET request for http://www.sogo.com
+2021-10-01T11:39:37.214-0500	INFO	zap-lumberjack/main.go:53	Success! statusCode = 200 OK for URL http://www.sogo.com
+2021-10-01T14:03:19.797-0500	DEBUG	zap-lumberjack/main.go:48	Trying to hit GET request for www.sogo.com
+2021-10-01T14:03:19.797-0500	ERROR	zap-lumberjack/main.go:51	Error fetching URL www.sogo.com : Error = Get "www.sogo.com": unsupported protocol scheme ""
+2021-10-01T14:03:19.797-0500	DEBUG	zap-lumberjack/main.go:48	Trying to hit GET request for http://www.sogo.com
+2021-10-01T14:03:22.696-0500	INFO	zap-lumberjack/main.go:53	Success! statusCode = 200 OK for URL http://www.sogo.com
+2021-10-01T14:03:23.866-0500	DEBUG	zap-lumberjack/main.go:48	Trying to hit GET request for www.sogo.com
+2021-10-01T14:03:23.867-0500	ERROR	zap-lumberjack/main.go:51	Error fetching URL www.sogo.com : Error = Get "www.sogo.com": unsupported protocol scheme ""
+2021-10-01T14:03:23.867-0500	DEBUG	zap-lumberjack/main.go:48	Trying to hit GET request for http://www.sogo.com
+2021-10-01T14:03:25.973-0500	INFO	zap-lumberjack/main.go:53	Success! statusCode = 200 OK for URL http://www.sogo.com
+2021-10-01T17:09:17.722-0500	DEBUG	zap-lumberjack/main.go:48	Trying to hit GET request for www.sogo.com
+2021-10-01T17:09:17.722-0500	ERROR	zap-lumberjack/main.go:51	Error fetching URL www.sogo.com : Error = Get "www.sogo.com": unsupported protocol scheme ""
+2021-10-01T17:09:17.722-0500	DEBUG	zap-lumberjack/main.go:48	Trying to hit GET request for http://www.sogo.com
+2021-10-01T17:09:19.714-0500	INFO	zap-lumberjack/main.go:53	Success! statusCode = 200 OK for URL http://www.sogo.com
