@@ -1,0 +1,28 @@
+{"level":"debug","timestamp":1634147222.9352598,"message":"Trying to hit GET request for www.sogo.com"}
+{"level":"error","timestamp":1634147222.935443,"message":"Error fetching URL www.sogo.com : Error = Get \"www.sogo.com\": unsupported protocol scheme \"\""}
+{"level":"debug","timestamp":1634147222.935492,"message":"Trying to hit GET request for http://www.sogo.com"}
+{"level":"info","timestamp":1634147224.705972,"message":"Success! statusCode = 200 OK for URL http://www.sogo.com"}
+{"level":"DEBUG","timestamp":1634163818.5089831,"message":"Trying to hit GET request for www.sogo.com"}
+{"level":"ERROR","timestamp":1634163818.5095308,"message":"Error fetching URL www.sogo.com : Error = Get \"www.sogo.com\": unsupported protocol scheme \"\""}
+{"level":"DEBUG","timestamp":1634163818.509645,"message":"Trying to hit GET request for http://www.sogo.com"}
+{"level":"INFO","timestamp":1634163820.6743722,"message":"Success! statusCode = 200 OK for URL http://www.sogo.com"}
+{"level":"DEBUG","ts":1634163964.65659,"msg":"Trying to hit GET request for www.sogo.com"}
+{"level":"ERROR","ts":1634163964.656878,"msg":"Error fetching URL www.sogo.com : Error = Get \"www.sogo.com\": unsupported protocol scheme \"\""}
+{"level":"DEBUG","ts":1634163964.656926,"msg":"Trying to hit GET request for http://www.sogo.com"}
+{"level":"INFO","ts":1634163966.287125,"msg":"Success! statusCode = 200 OK for URL http://www.sogo.com"}
+{"level":"debug","timestamp":1634164148.591367,"message":"Trying to hit GET request for www.sogo.com"}
+{"level":"error","timestamp":1634164148.591669,"message":"Error fetching URL www.sogo.com : Error = Get \"www.sogo.com\": unsupported protocol scheme \"\""}
+{"level":"debug","timestamp":1634164148.591726,"message":"Trying to hit GET request for http://www.sogo.com"}
+{"level":"info","timestamp":1634164151.038513,"message":"Success! statusCode = 200 OK for URL http://www.sogo.com"}
+{"level":"debug","timestamp":1634164406.2787719,"message":"Trying to hit GET request for www.sogo.com"}
+{"level":"error","timestamp":1634164406.2793999,"message":"Error fetching URL www.sogo.com : Error = Get \"www.sogo.com\": unsupported protocol scheme \"\""}
+{"level":"debug","timestamp":1634164406.279493,"message":"Trying to hit GET request for http://www.sogo.com"}
+{"level":"info","timestamp":1634164408.613337,"message":"Success! statusCode = 200 OK for URL http://www.sogo.com"}
+{"level":"debug","timestamp":1634164503.083401,"message":"Trying to hit GET request for www.sogo.com"}
+{"level":"error","timestamp":1634164503.083798,"message":"Error fetching URL www.sogo.com : Error = Get \"www.sogo.com\": unsupported protocol scheme \"\""}
+{"level":"debug","timestamp":1634164503.083859,"message":"Trying to hit GET request for http://www.sogo.com"}
+{"level":"info","timestamp":1634164505.2746701,"message":"Success! statusCode = 200 OK for URL http://www.sogo.com"}
+{"level":"debug","timestamp":1634167546.229286,"message":"Trying to hit GET request for www.sogo.com"}
+{"level":"error","timestamp":1634167546.229874,"message":"Error fetching URL www.sogo.com : Error = Get \"www.sogo.com\": unsupported protocol scheme \"\""}
+{"level":"debug","timestamp":1634167546.229921,"message":"Trying to hit GET request for http://www.sogo.com"}
+{"level":"info","timestamp":1634167548.5716538,"message":"Success! statusCode = 200 OK for URL http://www.sogo.com"}
